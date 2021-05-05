@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=TwisterOS Imager
+Comment=TwisterOS Imager
+Icon=twister-imager
+Exec=twister-imager
+Categories=Utility
+StartupNotify=false

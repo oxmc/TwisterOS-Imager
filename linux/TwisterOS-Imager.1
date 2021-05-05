@@ -1,0 +1,46 @@
+.\" =========================================================================
+.\" Copyright (c) 2021 oxmc.  All rights reserved.
+.\"
+.\" See the accompanying file LICENSE at https://github.com/oxmc/TwisterOS-Imager/blob/main/license.txt#L1
+.\" ==========================================================================
+.\"
+.\" TwisterOS-Imager, a fork of rpi-imager made by oxmc for TwisterOS by pi-labs.
+.\" Source code on github: https://github.com/oxmc/TwisterOS-Imager
+.\"
+.TH TwisterOS-Imager 1 "4 May 2021 (v1.0)" oxmc
+.SH NAME
+TwisterOS \- A fork of rpi-imager
+.SH SYNOPSIS
+.B TwisterOS-Imager
+.RB 
+[\-\-command <arg>]
+.SH DESCRIPTION
+.I TwisterOS-Imager
+, A fork of
+.I rpi-imager
+for
+.B TwisterOS
+by
+.I pi-labs
+.
+.SH COMMANDS
+.B --help | Display all commands
+
+.B --version | Display the imager's version
+
+.B --repo <repository URL> | Use a custom image list for the imager from a url
+
+.B --qm <custom qm translation file> | Use a custom qm translation file
+
+.B --debug | Enable debug mode which send messages to the terminal
+
+.SH OTHER COMMANDS
+
+.B Note: TELEMENTERY IS DISABLED BY DEFAULT
+
+.B --enable-telementry | turns telementry on, though it will send it to the raspberrypi foundation's website.
+
+.B --disable-telementry | turns telementry off. (Enabled by default)
+.PP
+
+.PP

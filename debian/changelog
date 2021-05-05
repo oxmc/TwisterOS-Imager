@@ -1,0 +1,11 @@
+twisteros-imager (1.2) unstable; urgency=medium
+
+  * Add man-db page.
+
+ -- Seth Olivarez <olivarezseth23@gmail.com>  Tue, 3 May 2021 7:10:26 +0100
+
+twisteros-imager (1.0) unstable; urgency=medium
+
+  * Initial Release.
+
+ -- Seth Olivarez <olivarezseth23@gmail.com>  Sun, 2 May 2021 9:05:09 +0100
