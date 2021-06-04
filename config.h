@@ -11,7 +11,7 @@
 #define IMAGER_VER                     "1.3.0"
 
 /* Repository URL */
-#define OSLIST_URL                        "https://oxmc.github.io/TwisterOS-Imager/image_list_v2.json"
+#define OSLIST_URL                        "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/rpi-imager/os_list_imagingutility_twisteros.json"
 
 /* Time synchronization URL (only used on eglfs QPA platform, URL must be HTTP) */
 #define TIME_URL                          "http://oxmc.github.io/TwisterOS-Imager/image_list_v2.json?time_synchronization"
