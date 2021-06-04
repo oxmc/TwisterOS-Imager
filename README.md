@@ -43,7 +43,7 @@ You can install it with apt:
 
 ```
 cd ..
-sudo apt install ./ob-imager*.deb
+sudo apt install ./twisteros-imager*.deb
 ```
 
 It should create an icon in the start menu under "Utilities" or "Accessories".
