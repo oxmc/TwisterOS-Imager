@@ -242,7 +242,7 @@ else()
         @ONLY)
 
     install(TARGETS twisteros-imager DESTINATION bin)
-    install(FILES icons/rpi-imager.png DESTINATION share/icons/hicolor/128x128/apps)
+    install(FILES icons/twisteros-imager.png DESTINATION share/icons/hicolor/128x128/apps)
     install(FILES linux/twisteros-imager.desktop DESTINATION share/applications)
     install(FILES linux/TwisterOS-Imager.1 DESTINATION share/man/man1)
     install(FILES "${CMAKE_CURRENT_BINARY_DIR}/twisteros-imager.metainfo.xml" DESTINATION share/metainfo)
