@@ -4,7 +4,7 @@ TwisterOS Imaging Utility
 
 ## Download
 
-- Download the latest version for Raspberry Pi OS from the [TwisterOS downloads page](https://oxmc.github.io/TwisterOS/downloads/).
+- Download the latest version for Raspberry Pi OS from the [TwisterOS downloads page](https://twisteros.com/downloads/).
 
 ### Download-other
 
